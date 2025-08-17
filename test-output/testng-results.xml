@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-16T01:52:17 IST" name="Default suite" finished-at="2025-08-16T01:52:18 IST" duration-ms="412">
+  <suite started-at="2025-08-17T21:21:44 IST" name="Default suite" finished-at="2025-08-17T21:21:44 IST" duration-ms="419">
     <groups>
     </groups>
-    <test started-at="2025-08-16T01:52:17 IST" name="Default test" finished-at="2025-08-16T01:52:18 IST" duration-ms="412">
+    <test started-at="2025-08-17T21:21:44 IST" name="Default test" finished-at="2025-08-17T21:21:44 IST" duration-ms="419">
       <class name="com.database.GetCredentialsTableDataFromAshok_db">
-        <test-method is-config="true" signature="dataBaseSetup()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-16T01:52:17 IST" name="dataBaseSetup" finished-at="2025-08-16T01:52:18 IST" duration-ms="330" status="PASS">
+        <test-method is-config="true" signature="dataBaseSetup()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-17T21:21:44 IST" name="dataBaseSetup" finished-at="2025-08-17T21:21:44 IST" duration-ms="337" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataBaseSetup -->
-        <test-method signature="getDataFromTable()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-16T01:52:18 IST" name="getDataFromTable" finished-at="2025-08-16T01:52:18 IST" duration-ms="43" status="PASS">
+        <test-method signature="getDataFromTable()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-17T21:21:44 IST" name="getDataFromTable" finished-at="2025-08-17T21:21:44 IST" duration-ms="45" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDataFromTable -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-16T01:52:18 IST" name="tearDown" finished-at="2025-08-16T01:52:18 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.database.GetCredentialsTableDataFromAshok_db@6a6cb05c]" started-at="2025-08-17T21:21:44 IST" name="tearDown" finished-at="2025-08-17T21:21:44 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
